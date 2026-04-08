@@ -1,0 +1,30 @@
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.exe
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.deps.json
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.runtimeconfig.json
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\ref\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.pdb
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.csproj.AssemblyReference.cache
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.AssemblyInfoInputs.cache
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.AssemblyInfo.cs
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.csproj.CoreCompileInputs.cache
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\ref\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.pdb
+D:\0. Affan IF-02 25.11.6357\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.genruntimeconfig.cache
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.exe
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.deps.json
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.runtimeconfig.json
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\ref\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\bin\Debug\net6.0\0. Affan IF-02 25.11.6357.pdb
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.csproj.AssemblyReference.cache
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.AssemblyInfoInputs.cache
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.AssemblyInfo.cs
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.csproj.CoreCompileInputs.cache
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\ref\0. Affan IF-02 25.11.6357.dll
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.pdb
+D:\0. Affan IF-02 25.11.6357\Pertemuan 1\obj\Debug\net6.0\0. Affan IF-02 25.11.6357.genruntimeconfig.cache

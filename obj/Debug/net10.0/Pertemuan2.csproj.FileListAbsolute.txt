@@ -1,0 +1,15 @@
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/bin/Debug/net10.0/Pertemuan2
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/bin/Debug/net10.0/Pertemuan2.deps.json
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/bin/Debug/net10.0/Pertemuan2.runtimeconfig.json
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/bin/Debug/net10.0/Pertemuan2.dll
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/bin/Debug/net10.0/Pertemuan2.pdb
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.AssemblyInfoInputs.cache
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.AssemblyInfo.cs
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.csproj.CoreCompileInputs.cache
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.sourcelink.json
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.dll
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/refint/Pertemuan2.dll
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.pdb
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/Pertemuan2.genruntimeconfig.cache
+/home/hyprlan/Directory/tugas/Pemrograman/Pertemuan2/obj/Debug/net10.0/ref/Pertemuan2.dll
